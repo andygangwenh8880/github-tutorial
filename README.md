@@ -26,3 +26,9 @@ The staging area is a place that monitors the repositories.After git init, you w
 
 ---
 ## Workflow & Commands
+
+
+
+## Feedback
+
+It's simple and easy to follow the instructions, it suits well for beginners
